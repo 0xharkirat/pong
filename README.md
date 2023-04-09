@@ -10,5 +10,7 @@ Challenge:
 I challenge you all can't beat the computer in this game.
 
 Youtube Demo Link:
+
+   
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7YmgnnTssss/0.jpg)](https://www.youtube.com/watch?v=7YmgnnTssss)
 
